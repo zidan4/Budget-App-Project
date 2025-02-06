@@ -2,4 +2,4 @@
 
 freeCodeCamp Certification Project.
 
-Scientific Computing with Python
+Scientific Computing with Python.
